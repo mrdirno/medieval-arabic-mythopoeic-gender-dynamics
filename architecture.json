@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-mythopoeic-gender-dynamics",
+  "title": "The Whisper That Shapes the World",
+  "tagline": "In a world where words have weight and silence holds power, a woman and a boy must navigate the unspoken geometry of gender, fate, and consequence.",
+  "target_words": 69501,
+  "actual_words": 69501,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Power and Weight of Language",
+    "The Unseen Architecture of Gender",
+    "Silence as a Space of Agency",
+    "The Interplay of Fate and Choice"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Weight of a Spoken World",
+      "words": 6318
+    },
+    {
+      "ch": 2,
+      "title": "Where the House Held Its Breath",
+      "words": 6318
+    },
+    {
+      "ch": 3,
+      "title": "A Chessboard of Quiet Scrutiny",
+      "words": 6318
+    },
+    {
+      "ch": 4,
+      "title": "The Density of a Waiting Alley",
+      "words": 6318
+    },
+    {
+      "ch": 5,
+      "title": "Geometry of a Swallowing Silence",
+      "words": 6318
+    },
+    {
+      "ch": 6,
+      "title": "The Atmosphere of Consequence",
+      "words": 6318
+    },
+    {
+      "ch": 7,
+      "title": "A Name Unspoken in Twilight",
+      "words": 6318
+    },
+    {
+      "ch": 8,
+      "title": "The Converging Point of a Gaze",
+      "words": 6318
+    },
+    {
+      "ch": 9,
+      "title": "The Hollow's New and Terrible Shape",
+      "words": 6318
+    },
+    {
+      "ch": 10,
+      "title": "The Tensile Force of Trust",
+      "words": 6318
+    },
+    {
+      "ch": 11,
+      "title": "The Blueprint in Unspoken Ink",
+      "words": 6318
+    }
+  ]
+}
